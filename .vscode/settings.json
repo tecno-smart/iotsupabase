@@ -1,0 +1,6 @@
+{
+    "editor.formatOnType": true,
+    "diffEditor.codeLens": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true
+}
